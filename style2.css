@@ -1,0 +1,39 @@
+body{
+    border-style: solid;
+    border-color: hotpink;
+    border-width: 1cm;
+    background-color: black;
+    color: white;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-image: url("C:/Users/MAHE/Pictures/bp3.jpg");
+    font-family: cursive;
+}
+#a{
+    text-align: center;
+}
+
+#d1{
+    text-align: center;
+}
+
+#c1{
+    text-align: center;
+}
+
+#e1{
+    text-align: center;
+}
+
+#e3{
+    text-align: center;
+}
+
+#e5{
+    text-align: center;
+}
+
+#f1{
+    text-align: center;
+}

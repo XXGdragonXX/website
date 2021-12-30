@@ -1,0 +1,180 @@
+body{
+    
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-width: 1cm;
+    border-color: black;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    
+    background-image: url("C:/Users/MAHE/Pictures/bp5.jpg")
+    
+    
+    
+    
+  
+  
+    
+}
+
+#third{
+    text-align: center;
+    color: rgb(12, 2, 22);
+   
+}
+
+#fourth{
+    text-align: center;
+    font-size: large;
+    font-style: normal;
+    font-family:cursive;
+    font-weight: bold;
+    color: rgb(17, 1, 4);
+    
+}
+
+#first{
+    text-align: center;
+    font-style: oblique;
+    font-weight: bolder;
+    color: purple;
+}
+
+#eight{
+    text-align: center;
+    color: rgb(36, 2, 2);
+}
+#second{
+    text-align: center;
+    
+    word-spacing: 200px;
+    background: linear-gradient(130deg,black,pink,white,pink);
+    
+}
+#sixone{
+    text-align: center;
+    font-size: 30px;
+    font-family: cursive;
+    font-weight: bold;
+    
+    color: white
+    
+    ;
+}
+#seventh{
+    
+    text-align: center;
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(72, 25, 202);
+}
+#sixth{
+    text-align: center;
+}
+
+#fifth{
+    text-align: center;
+    font-weight: bolder;
+}
+#nine{
+    word-spacing: 5cm;
+    background-color: black;
+}
+
+#sevenone{
+    font-size: large;
+    font-weight: 900;
+    text-align: center;
+}
+#members{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    font-family: cursive;
+}
+.alpha:hover{
+    background: linear-gradient(130deg,white,hotpink);
+    color:hotpink;
+    display: inline-block;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: solid;
+    cursor: pointer;
+    
+}
+
+.beta:link,.beta:hover{
+    padding: 10px 20px;
+    display: inline-block;
+    text-align: center;
+    background-color: black;
+    
+}
+.omega:hover{
+    display: inline-block;
+    text-align: center;
+    padding: 10px 17px;
+    background-color: black;
+}
+
+.container{
+    background-color: black;
+    text-align: center;
+    color: hotpink;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.dropbtn {
+    background-color:transparent;
+    color: black;
+    font-weight: bold;
+    padding: 10px;
+    font-size: 15px;
+    border: none;
+    cursor: pointer;
+  }
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background: linear-gradient(130deg,black,pink,white);
+    min-width: 160px;
+    
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 10px 20px;
+    text-decoration: none;
+    display: block;
+   
+}
+.dropdown-content a:hover {
+    background: linear-gradient(130deg,black,pink,white);
+}    
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: transparent
+}
+
+.key{
+    border: none;
+    background-color: transparent;
+    padding: 10px 20px;
+    font-weight: bold;
+    font-size: 15px;
+}
